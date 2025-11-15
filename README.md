@@ -1,4 +1,4 @@
-## Hi there, I'm Gabe <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<img width="1024" height="431" alt="image" src="https://github.com/user-attachments/assets/0c256429-96e4-4e68-8a21-97674c22b728" />## Hi there, I'm Gabe <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows, and agentic tools that solve real problems 🤖. Outside of programming, I’m into lifting 🏋️‍♂️, traveling ✈️, photography 📸, and dancing salsa 💃. I'm also a Gator engineer 🐊 with a drive for bringing ideas to life!
 
@@ -35,7 +35,7 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
-<img src="https://imgur.com/gallery/miami-skyline-KA6V4yv#M1moNNw"/>
+<img src="https://i.imgur.com/hHKPz6v.png"/>
 <!--
 **gabr1elp/gabr1elp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
