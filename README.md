@@ -24,9 +24,6 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
 
-
-<img src="https://i.imgur.com/pyQNXjn.png"/>
-
 <!--
 ### Spotify Playing 🎧
 
