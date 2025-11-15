@@ -1,7 +1,5 @@
 <img width="1024" height="431" alt="image" src="https://github.com/user-attachments/assets/0c256429-96e4-4e68-8a21-97674c22b728" />## Hi there, I'm Gabe <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows, and agentic tools that solve real problems 🤖. Outside of programming, I’m into lifting 🏋️‍♂️, traveling ✈️, photography 📸, and dancing salsa 💃. I'm also a Gator engineer 🐊 with a drive for bringing ideas to life!
-
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
 
@@ -9,21 +7,10 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pascualperspective)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielp.gg?si=9999e72aeef94dad)
 
-## 🙋‍♂️ About me
-
-![profile view count](https://komarev.com/ghpvc/?username=gabr1elp)
+## 🙋‍♂️ About me ![profile view count](https://komarev.com/ghpvc/?username=gabr1elp)
+I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows, and agentic tools that solve real problems 🤖. Outside of programming, I’m into lifting 🏋️‍♂️, traveling ✈️, photography 📸, and dancing salsa 💃. I'm also a Gator engineer 🐊 with a drive for bringing ideas to life!
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## 🔭 I'm currently working on
-
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
-
-## 🌱 I’m currently learning
-
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
 ## 📫 How to reach me
 
@@ -33,7 +20,7 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg?si=5993eb6e2c7d4f43)
 
 <img src="https://i.imgur.com/hHKPz6v.png"/>
 <!--
