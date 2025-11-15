@@ -12,8 +12,6 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com)
-[<img src="assets/discord.png" height="50px">](https://discord.gg/c5U9vz2JAT)
-[<img src="assets/instagram.png" height="50px">](https://instagram.com/pascualperspective)
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
 
