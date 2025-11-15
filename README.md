@@ -9,22 +9,20 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pascualperspective)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielp.gg?si=9999e72aeef94dad)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 📫 How to reach me
-[<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com)
-
-</td>
-<td width="50%" valign="top">
-
-## 🎵 Check out what I'm listening to
-[![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
-
-</td>
-</tr>
-</table>
+<div align="center">
+    <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h2>🎵 Check out what I'm listening to</h2>
+    <a href="https://open.spotify.com/user/gabrielp.gg">
+      <img src="https://novatorem-mocha-nine.vercel.app/api/spotify">
+    </a>
+  </div>
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h2>📫 How to reach me</h2>
+    <a href="mailto:gabepmedia@gmail.com">
+      <img src="assets/envelope.png" height="50px">
+    </a>
+  </div>
+</div>
 
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
