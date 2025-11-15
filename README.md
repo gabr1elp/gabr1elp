@@ -12,12 +12,12 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 <table>
 <tr>
 <td width="50%" valign="top">
-# 🎵 Check out what I'm listening to
-[![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
+  ## 🎵 Check out what I'm listening to
+  [![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
 </td>
 <td width="50%" valign="top">
-# 📫 How to reach me
-[<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com)
+  ##📫 How to reach me
+  [<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com)
 </td>
 </tr>
 </table>
