@@ -13,7 +13,7 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 [<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com)
 
-[![Spotify](https://novatorem-cpcyqgu8t-gabr1elps-projects.vercel.app/)](https://open.spotify.com/user/gabrielp.gg)
+[![Spotify](https://novatorem-cpcyqgu8t-gabr1elps-projects.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
 
