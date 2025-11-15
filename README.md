@@ -15,9 +15,7 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 
 ## 🎵 Check out what I'm listening to
-&nbsp;<div align="left">
-  [![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
-</div>
+[![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg)
 
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
