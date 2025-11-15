@@ -8,12 +8,14 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pascualperspective)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielp.gg?si=9999e72aeef94dad)
 
-<div align="center">
+<p align="left" width="48%">
+<strong>📫 How to reach me</strong><br/>
+<a href="mailto:gabepmedia@gmail.com"><img src="assets/envelope.png" height="50px"></a>
+</p>
 
-| 📫 How to reach me | 🎵 Check out what I'm listening to |
-|:---:|:---:|
-| [<img src="assets/envelope.png" height="50px">](mailto:gabepmedia@gmail.com) | [![Spotify](https://novatorem-mocha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg) |
-
-</div>
+<p align="right" width="48%">
+<strong>🎵 Check out what I'm listening to</strong><br/>
+<a href="https://open.spotify.com/user/gabrielp.gg"><img src="https://novatorem-mocha-nine.vercel.app/api/spotify"></a>
+</p>
 
 <img src="https://i.imgur.com/pyQNXjn.png"/>
