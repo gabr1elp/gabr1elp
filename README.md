@@ -35,7 +35,7 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://imgur.com/a/KA6V4yv"/>
 <!--
 **gabr1elp/gabr1elp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
