@@ -7,6 +7,8 @@
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pascualperspective)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielp.gg?si=9999e72aeef94dad)
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ## 🙋‍♂️ About me ![profile view count](https://komarev.com/ghpvc/?username=gabr1elp)
 I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows, and agentic tools that solve real problems 🤖. Outside of programming, I’m into lifting 🏋️‍♂️, traveling ✈️, photography 📸, and dancing salsa 💃. I'm also a Gator engineer 🐊 with a drive for bringing ideas to life!
 
@@ -18,8 +20,9 @@ I'm from Miami, FL 🌴 and I focus on building AI systems, automation workflows
 [<img src="assets/discord.png" height="50px">](https://discord.gg/c5U9vz2JAT)
 [<img src="assets/instagram.png" height="50px">](https://instagram.com/pascualperspective)
 
+<img src="https://i.imgur.com/pyQNXjn.png"/>
+
+<!--
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/gabrielp.gg?si=5993eb6e2c7d4f43)
-
-<img src="https://i.imgur.com/T5bK25r.png"/>
